@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="WhatsApp Image 2026-05-27 at 09 58 58" src="https://github.com/user-attachments/assets/71592234-0c82-4e20-916f-a7af3b16e8d3" />
+
+
 # 🍽️ Cardápio Digital — Quintal da Vila
 
 Site do cardápio digital do **Quintal da Vila Restaurante**, desenvolvido em HTML, CSS e JavaScript puro. Funciona sem nenhuma instalação — basta abrir o `index.html` no navegador ou publicar no GitHub Pages.
