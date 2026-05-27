@@ -78,9 +78,9 @@ O site ficará disponível em:
 - **Endereço:** Rua Rishin Matsuda, 712 — São Paulo, SP — CEP 04371-000
 - **WhatsApp:** (11) 95425-8578
 
-
+QRCODE DO VIDEO
 - <img width="93" height="88" alt="WhatsApp Image 2026-05-27 at 19 11 57 (1)" src="https://github.com/user-attachments/assets/56e750d2-43e8-48b3-943d-aa3de8128eb3" />
-
+QRCODE DO CARDAPIO
 - <img width="137" height="138" alt="WhatsApp Image 2026-05-27 at 19 11 57" src="https://github.com/user-attachments/assets/89fe2307-b136-426f-a3b8-3b7faf88ea4a" />
 
 
