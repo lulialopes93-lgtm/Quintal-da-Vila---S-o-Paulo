@@ -55,16 +55,6 @@ Não precisa instalar nada. Basta:
 1. Baixar ou clonar este repositório
 2. Abrir o arquivo `index.html` no navegador
 
-## 🌐 Como publicar no GitHub Pages
-
-1. Crie um repositório público no [GitHub](https://github.com)
-2. Faça upload de **todos** os arquivos e pastas deste projeto
-3. Vá em **Settings → Pages**
-4. Em **Source**, selecione: **Deploy from a branch → main → / (root)**
-5. Clique em **Save**
-
-O site ficará disponível em:
-`https://SEU_USUARIO.github.io/NOME_DO_REPOSITORIO/`
 
 ## 🛠️ Tecnologias
 
