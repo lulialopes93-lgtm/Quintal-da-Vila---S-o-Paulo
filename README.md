@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="WhatsApp Image 2026-05-27 at 09 58 58" src="https://github.com/user-attachments/assets/71592234-0c82-4e20-916f-a7af3b16e8d3" />
+<img width="1536" height="1024" alt="WhatsApp Image 2026-05-27 at 19 31 28 (2)" src="https://github.com/user-attachments/assets/010f639f-29ea-4306-ad9f-ebad1f4e1640" />
+
 
 
 # 🍽️ Cardápio Digital — Quintal da Vila
